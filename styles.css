@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    /* border-radius: 50px; */
+    border-radius: 100px;
+}
+
+h1 {
+    font-family: Fira Sans;
+    /* text-align: center; */
+    color: rgb(83,75,75)
+}
+p {
+    font-family: Fira Sans;
+    /* text-align: center; */
+    color: rgb(83, 75, 75);
+    /* background-color: rgb(205, 173, 235); */
+}
+a{
+    color:blue;
+    text-decoration: none;
+}
+a:hover{
+    color:blueviolet;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#todays_challenge {
+    color: rgb(170,96,83);
+    font-family: 'Oswald', sans serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+#achieve_this_goal{
+    font-family: Fira Sans, Courgette;
+    color: rgb(9, 31, 9);
+    font-size: medium;
+}
