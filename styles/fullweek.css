@@ -3,3 +3,7 @@ body {
     background-color: yellowgreen;
 }
 h1 {font-family: Oswald;}
+
+li{
+    list-style: none;
+}
